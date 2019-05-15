@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\kitty\source\repos\mpi_test\mpi_test\source.cpp(41): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kitty\source\repos\mpi_test\mpi_test\source.cpp(18): warning C4101: 'oldProcess': unreferenced local variable
+c:\users\kitty\source\repos\mpi_test\mpi_test\source.cpp(15): warning C4101: 'i': unreferenced local variable
+  MPI_Test.vcxproj -> C:\Users\Kitty\source\repos\MPI_Test\x64\Debug\MPI_Test.exe

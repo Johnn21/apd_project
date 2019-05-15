@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\kitty\source\repos\warplanet\warplanet\source.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kitty\source\repos\warplanet\warplanet\source.cpp(209): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\kitty\source\repos\warplanet\warplanet\source.cpp(209): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  WarPlanet.vcxproj -> C:\Users\Kitty\source\repos\WarPlanet\Debug\WarPlanet.exe
